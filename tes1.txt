@@ -3,4 +3,6 @@ Kelas : IF A 2019
 Npm   : 5520119027
 Basis : Cianjur
 
-no 2
+no 5
+
+2+5 = 8
